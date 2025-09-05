@@ -2,7 +2,7 @@
 
 A simple and intuitive React-based text utility app to manipulate and analyze text with ease. Features include multiple text case transformations, removing extra spaces, copying text, and a live word & character count. Plus, it supports light/dark mode for better usability.
 
-### Features
+## Features
 
 Convert text to Uppercase, Lowercase, Inverse Case, and Alternating Case
 
@@ -18,7 +18,7 @@ Light and Dark mode toggle for comfortable viewing
 
 Responsive UI built with Bootstrap 5
 
-### Installation
+## Installation
 
 1. Clone the repo:
 ```bash
@@ -38,7 +38,7 @@ npm start
 
 4. Open http://localhost:3000 in your browser to view the app.
 
-### Usage
+## Usage
 
 Enter or paste text in the text area.
 
@@ -48,7 +48,7 @@ The summary section updates in real time.
 
 Toggle between light and dark mode using the switch in the navbar.
 
-### Folder Structure
+## Folder Structure
 ```bash
 texteditor/
 ├── public/
@@ -68,7 +68,7 @@ texteditor/
 └── README.md
 ```
 
-### Technologies Used
+## Technologies Used
 
 React 19
 
